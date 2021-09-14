@@ -206,6 +206,12 @@ TextureImporter:
   - first:
       213: -1895107926291468567
     second: Pacman_death_10
+  - first:
+      213: 7960299501354929935
+    second: Big_Point
+  - first:
+      213: 1579531326687846966
+    second: Point
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1718,6 +1724,48 @@ TextureImporter:
       bones: []
       spriteID: 9eeae5ab16933b5e0800000000000000
       internalID: -1895107926291468567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Point
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fcaf3983aa87e60800000000000000
+      internalID: 7960299501354929935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Point
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a4d67f5f9be510800000000000000
+      internalID: 1579531326687846966
       vertices: []
       indices: 
       edges: []

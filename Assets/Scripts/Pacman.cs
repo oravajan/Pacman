@@ -48,7 +48,7 @@ public class Pacman : MonoBehaviour
     private bool CheckDirection(Vector2 dir)
     {
         //Checks if in given direction is not wall
-        RaycastHit2D hit = Physics2D.BoxCast(transform.position, Vector2.one * 1.8f, 0.0f, dir, 1f, walls);
+        RaycastHit2D hit = Physics2D.BoxCast(transform.position, Vector2.one * 0.8f, 0.0f, dir, 1.5f, walls);
         return hit.collider == null;
     }
     
