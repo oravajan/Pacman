@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Maze
+    uniqueID: 2791671323
+    locked: 0
+  - name: Points
+    uniqueID: 1230347375
+    locked: 0
+  - name: Ghosts
+    uniqueID: 1407368635
+    locked: 0
+  - name: Pacman
+    uniqueID: 714220523
+    locked: 0
